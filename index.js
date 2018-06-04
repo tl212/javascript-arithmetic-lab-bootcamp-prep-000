@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var a = 2 
 var b = 3
 var n = 1
@@ -35,3 +36,10 @@ function preserveDecimal (n) {
 
 
 
+=======
+var number = 10
+
+function add5() {
+  number += 5
+}
+>>>>>>> 52ff9595fc9e7c665b26a6c85dfe626c3e9d78ed
